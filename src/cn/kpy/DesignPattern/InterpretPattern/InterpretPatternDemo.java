@@ -1,5 +1,14 @@
 package cn.kpy.DesignPattern.InterpretPattern;
 
+/**
+ * @auther: kpy
+ * @version: 1.0
+ * @Package: cn.kpy.DesignPattern.InterpretPatternDemo
+ * @data: 2019/3/7 8:38
+ * @discription: 提供了评估语言的语法或表达式的方式，它属于行为型模式。这种模式实现了一个表达式接口，该接口解释一个特定的上下文
+ **/
+
+
 public class InterpretPatternDemo {
 
     //规则：Robert 和 John 是男性

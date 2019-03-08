@@ -22,3 +22,4 @@
 + FactoryPattern：工厂模式
 + FilterPattern：过滤器模式
 + FlyweightPattern：享元模式
++ InterpretPattern：
