@@ -3,11 +3,11 @@ package cn.kpy.DesignPattern.VisitorPattern;
 /**
  * @auther: kpy
  * @version: 1.0
- * @Package: cn.kpy.DesignPattern.VisitorPattern
+ * @Package: cn.kpy.DesignPattern.VisitorPatternDemo
  * @data: 2019/3/7 8:45
  * @discription: 访问者模式：元素对象已接受访问者对象，这样访问者对象就可以处理元素对象上的操作
  **/
-public class VisitorPattern {
+public class VisitorPatternDemo {
     public static void main(String[] args) {
         //被访问者对象：computer
         Computer computer=new Computer();

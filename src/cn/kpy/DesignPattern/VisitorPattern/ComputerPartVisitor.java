@@ -3,7 +3,7 @@ package cn.kpy.DesignPattern.VisitorPattern;
 /**
  * @auther: kpy
  * @version: 1.0
- * @Package: cn.kpy.DesignPattern.VisitorPattern
+ * @Package: cn.kpy.DesignPattern.VisitorPatternDemo
  * @data: 2019/3/7 8:29
  * @discription: 访问者接口，定义了想访问电脑的哪部分功能
  **/

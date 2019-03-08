@@ -3,7 +3,7 @@ package cn.kpy.DesignPattern.VisitorPattern;
 /**
  * @auther: kpy
  * @version: 1.0
- * @Package: cn.kpy.DesignPattern.VisitorPattern
+ * @Package: cn.kpy.DesignPattern.VisitorPatternDemo
  * @data: 2019/3/7 8:38
  * @discription: 电脑类（包含了鼠标和键盘），访问者只要被电脑实体类所接待，则可以访问鼠标和键盘
  **/
