@@ -1,5 +1,12 @@
-package cn.kpy.DesignPattern.ProxyPattern;
+package cn.kpy.DesignPattern.ProxyPattern.StaticProxy;
 
+/**
+ * @auther: kpy
+ * @version: 1.0
+ * @Package: cn.kpy.DesignPattern.VisitorPatternDemo
+ * @data: 2019/3/7 8:38
+ * @discription: 静态代理模式
+ **/
 public class ProxyPatternDemo {
     public static void main(String[] args) {
         Image image=new ProxyImage("test.jpg");

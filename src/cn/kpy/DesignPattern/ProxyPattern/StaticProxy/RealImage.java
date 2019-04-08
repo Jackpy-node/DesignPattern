@@ -1,4 +1,4 @@
-package cn.kpy.DesignPattern.ProxyPattern;
+package cn.kpy.DesignPattern.ProxyPattern.StaticProxy;
 
 public class RealImage implements Image{
     private String filename;

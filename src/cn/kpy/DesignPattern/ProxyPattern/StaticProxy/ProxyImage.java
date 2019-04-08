@@ -1,4 +1,4 @@
-package cn.kpy.DesignPattern.ProxyPattern;
+package cn.kpy.DesignPattern.ProxyPattern.StaticProxy;
 
 import java.lang.reflect.Proxy;
 
