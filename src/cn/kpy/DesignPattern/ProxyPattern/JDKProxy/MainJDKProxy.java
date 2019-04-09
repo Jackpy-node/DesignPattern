@@ -7,6 +7,13 @@ package cn.kpy.DesignPattern.ProxyPattern.JDKProxy;
  * @data: 2019-4-4 8:45
  * @discription: Proxy 代理模式：代理对象不需要实现接口,但是目标对象一定要实现接口,否则不能用动态代理，底层通过反射机制实现对象的接口实现
  **/
+
+
+/**
+ * 在Spring的AOP编程中:
+ * 如果加入容器的目标对象有实现接口,用JDK代理
+ * 如果目标对象没有实现接口,用Cglib代理
+ **/
 public class MainJDKProxy {
     public static void main(String[] args) {
         //目标对象，多态，父类引用指向子类对象
