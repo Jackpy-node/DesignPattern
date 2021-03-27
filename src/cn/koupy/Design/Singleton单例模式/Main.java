@@ -45,5 +45,11 @@ public class Main {
         singleton6.showMessage();
         singleton6 = Singleton6.getSingleton6();
         singleton6.showMessage();
+
+        System.out.println("\n--静态内部类--");
+        Singleton7 singleton7 = Singleton7.getSingleton7();
+        singleton7.showMessage();
+        singleton7 = Singleton7.getSingleton7();
+        singleton7.showMessage();
     }
 }
