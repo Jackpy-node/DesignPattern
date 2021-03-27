@@ -27,5 +27,23 @@ public class Main {
         singleton3.showMessage();
         singleton3 = Singleton3.getSingleton3();
         singleton3.showMessage();
+
+        System.out.println("\n--同步方法懒汉式--");
+        Singleton4 singleton4 = Singleton4.getSingleton4();
+        singleton4.showMessage();
+        singleton4 = Singleton4.getSingleton4();
+        singleton4.showMessage();
+
+        System.out.println("\n--同步代码块懒汉式--");
+        Singleton5 singleton5 = Singleton5.getSingleton5();
+        singleton5.showMessage();
+        singleton5 = Singleton5.getSingleton5();
+        singleton5.showMessage();
+
+        System.out.println("\n--双重锁检查懒汉式--");
+        Singleton6 singleton6 = Singleton6.getSingleton6();
+        singleton6.showMessage();
+        singleton6 = Singleton6.getSingleton6();
+        singleton6.showMessage();
     }
 }

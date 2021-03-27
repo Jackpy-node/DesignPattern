@@ -8,21 +8,26 @@ import com.sun.source.doctree.SinceTree;
  * @Package: cn.koupy.Design.Singleton单例模式
  * @data: 2021-3-27 16:14
  * @discription: 懒汉式，线程安全，同步方法，不建议使用，效率较低
- *  * 是否多线程安全：是
+ * 是否多线程安全：是
  **/
 public class Singleton4 {
 
     private static Singleton4 SINGLETON_4;
 
-    private Singleton4(){
+    private Singleton4() {
 
     }
 
-    public static synchronized Singleton4 getSingleton4(){
-        if(SINGLETON_4 == null){
+    public static synchronized Singleton4 getSingleton4() {
+        if (SINGLETON_4 == null) {
+            System.out.println("create singleton4 success !");
             SINGLETON_4 = new Singleton4();
         }
         return SINGLETON_4;
+    }
+
+    public void showMessage() {
+        System.out.println("singleton4 success !");
     }
 
 }

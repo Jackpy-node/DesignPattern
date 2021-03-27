@@ -17,7 +17,7 @@ public class Singleton3 {
     }
 
     public static Singleton3 getSingleton3(){
-        if(SINGLETON_3 == null){
+        if(SINGLETON_3 == null) {
             System.out.println("create singleton3 success !");
             SINGLETON_3 = new Singleton3();
         }
