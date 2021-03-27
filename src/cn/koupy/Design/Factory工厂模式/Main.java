@@ -8,7 +8,10 @@ package cn.koupy.Design.Factory工厂模式;
  * @discription:
  **/
 public class Main {
-
-
-
+    public static void main(String[] args) throws Exception {
+        ShapeFactory shapeFactory = new ShapeFactory();
+        Shape shape1 = shapeFactory.getShape("circle");
+        shape1.Draw();
+        shape1 = shapeFactory.getShape("square");
+    }
 }

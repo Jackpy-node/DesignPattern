@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8077abff-2f22-4055-b1ec-cf25c87274a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern/VisitorPatternDemo.java" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern" />
   </component>
@@ -304,7 +302,7 @@
       <workItem from="1590248712396" duration="95000" />
       <workItem from="1590286999286" duration="3193000" />
       <workItem from="1590314508337" duration="52000" />
-      <workItem from="1616805365329" duration="633000" />
+      <workItem from="1616805365329" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="kpy">
       <created>1551959575636</created>
@@ -365,6 +363,26 @@
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state x="627" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1616805423772" />
+    <state width="1869" height="176" key="GridCell.Tab.0.bottom" timestamp="1616806672345">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1869" height="176" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1616806672345" />
+    <state width="1869" height="176" key="GridCell.Tab.0.center" timestamp="1616806672344">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1869" height="176" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1616806672344" />
+    <state width="1869" height="176" key="GridCell.Tab.0.left" timestamp="1616806672344">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1869" height="176" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1616806672344" />
+    <state width="1869" height="176" key="GridCell.Tab.0.right" timestamp="1616806672344">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1869" height="176" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1616806672344" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1616806501484">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1616806501484" />
     <state x="539" y="13" width="840" height="1034" key="search.everywhere.popup" timestamp="1616805884071">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>

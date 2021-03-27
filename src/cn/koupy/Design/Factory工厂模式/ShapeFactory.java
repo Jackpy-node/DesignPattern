@@ -9,14 +9,15 @@ package cn.koupy.Design.Factory工厂模式;
  **/
 public class ShapeFactory {
 
-    public Shape getShape(String shapeType) {
+    public Shape getShape(String shapeType) throws Exception {
         if (shapeType == null) {
             return null;
         } else if (shapeType.equalsIgnoreCase("circle")) {
             return new Circle();
         } else if (shapeType.equalsIgnoreCase("rectangle")) {
             return new Rectangle();
+        } else {
+            throw new Exception("no such type!!!");
         }
-        return null;
     }
 }
