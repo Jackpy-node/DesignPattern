@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8077abff-2f22-4055-b1ec-cf25c87274a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DesignPattern$DaoPatternDemo.ic" NAME="DaoPatternDemo Coverage Results" MODIFIED="1552302628530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.kpy.DesignPattern.DAOPattern.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="306" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPattern" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>showPerson</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ShowPSerson</replace>
+      <replace>ShowPerson</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Jackpy-node/DesignPattern.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="H:\CodeTools\IdeaProject\DesignPattern\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PgPJFacVlOQ9mklHwWf2n91RDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554342268200" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern/VisitorPatternDemo.java" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="getShape" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.koupy.Design.Factory工厂模式.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.koupy.Design.Factory工厂模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCglibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kpy.DesignPattern.ProxyPattern.CglibProxy.MainCglibProxy" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kpy.DesignPattern.ProxyPattern.CglibProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJDKProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kpy.DesignPattern.ProxyPattern.JDKProxy.MainJDKProxy" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kpy.DesignPattern.ProxyPattern.JDKProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceLoaderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kpy.DesignPattern.ServiceLocatorPattern.ServiceLoaderPatternDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kpy.DesignPattern.ServiceLocatorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.cn.koupy.DesignPattern.Factory工厂模式.test" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cn.koupy.DesignPattern.Factory工厂模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainCglibProxy" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.MainJDKProxy" />
+        <item itemvalue="Application.ServiceLoaderPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\17607\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8077abff-2f22-4055-b1ec-cf25c87274a2" name="Default Changelist" comment="" />
+      <created>1550135010384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550135010384</updated>
+      <workItem from="1550135013919" duration="248000" />
+      <workItem from="1550209786545" duration="608000" />
+      <workItem from="1550446987923" duration="1251000" />
+      <workItem from="1550533397110" duration="667000" />
+      <workItem from="1550620193988" duration="737000" />
+      <workItem from="1550706297546" duration="5717000" />
+      <workItem from="1550795398838" duration="4395000" />
+      <workItem from="1551055273369" duration="1139000" />
+      <workItem from="1551140566550" duration="2921000" />
+      <workItem from="1551171570505" duration="5561000" />
+      <workItem from="1551226198036" duration="828000" />
+      <workItem from="1551227058229" duration="3294000" />
+      <workItem from="1551311413305" duration="3161000" />
+      <workItem from="1551314652011" duration="1395000" />
+      <workItem from="1551316458936" duration="348000" />
+      <workItem from="1551348466043" duration="7194000" />
+      <workItem from="1551398978107" duration="11392000" />
+      <workItem from="1551656439967" duration="8267000" />
+      <workItem from="1551679306654" duration="6581000" />
+      <workItem from="1551742351883" duration="12566000" />
+      <workItem from="1551830045544" duration="10761000" />
+      <workItem from="1551915880634" duration="10229000" />
+      <workItem from="1552003623366" duration="3911000" />
+      <workItem from="1552007852225" duration="6759000" />
+      <workItem from="1552263288932" duration="349000" />
+      <workItem from="1552264370961" duration="2709000" />
+      <workItem from="1552297336811" duration="1215000" />
+      <workItem from="1552298580292" duration="7306000" />
+      <workItem from="1552348222659" duration="14288000" />
+      <workItem from="1552434235264" duration="1248000" />
+      <workItem from="1552520648398" duration="847000" />
+      <workItem from="1553080771987" duration="52000" />
+      <workItem from="1554336128623" duration="6137000" />
+      <workItem from="1554683147294" duration="2121000" />
+      <workItem from="1554768328591" duration="1785000" />
+      <workItem from="1554855033015" duration="84000" />
+      <workItem from="1566292703154" duration="1828000" />
+      <workItem from="1566809981554" duration="46000" />
+      <workItem from="1566813178990" duration="1108000" />
+      <workItem from="1567499077252" duration="785000" />
+      <workItem from="1577667160960" duration="1839000" />
+      <workItem from="1578100181834" duration="1507000" />
+      <workItem from="1578101708680" duration="72000" />
+      <workItem from="1578101978679" duration="65000" />
+      <workItem from="1578102071065" duration="29000" />
+      <workItem from="1578102124489" duration="105000" />
+      <workItem from="1578102264615" duration="1328000" />
+      <workItem from="1578103614718" duration="153000" />
+      <workItem from="1578103813844" duration="11000" />
+      <workItem from="1578103976509" duration="248000" />
+      <workItem from="1578104245475" duration="189000" />
+      <workItem from="1578104451303" duration="1305000" />
+      <workItem from="1578108120850" duration="79000" />
+      <workItem from="1578113623053" duration="25000" />
+      <workItem from="1578118767627" duration="713000" />
+      <workItem from="1579336813823" duration="90000" />
+      <workItem from="1579336928328" duration="1694000" />
+      <workItem from="1581570118023" duration="408000" />
+      <workItem from="1581570543984" duration="760000" />
+      <workItem from="1583669384637" duration="749000" />
+      <workItem from="1583670534467" duration="6000" />
+      <workItem from="1583670553921" duration="7309000" />
+      <workItem from="1584414857968" duration="1211000" />
+      <workItem from="1584416081521" duration="14000" />
+      <workItem from="1584416105616" duration="3704000" />
+      <workItem from="1584533953463" duration="3760000" />
+      <workItem from="1584538722363" duration="757000" />
+      <workItem from="1585568036198" duration="1356000" />
+      <workItem from="1585571473852" duration="794000" />
+      <workItem from="1586234963034" duration="935000" />
+      <workItem from="1589597394273" duration="1244000" />
+      <workItem from="1589682368565" duration="1578000" />
+      <workItem from="1589695936038" duration="629000" />
+      <workItem from="1589897264683" duration="85000" />
+      <workItem from="1590246900455" duration="205000" />
+      <workItem from="1590247122087" duration="183000" />
+      <workItem from="1590248455473" duration="64000" />
+      <workItem from="1590248712396" duration="95000" />
+      <workItem from="1590286999286" duration="3193000" />
+      <workItem from="1590314508337" duration="52000" />
+      <workItem from="1616805365329" duration="633000" />
+    </task>
+    <task id="LOCAL-00001" summary="kpy">
+      <created>1551959575636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551959575636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kpy">
+      <created>1552004645448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552004645448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="kpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="kpy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1616805702390">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1616805702390" />
+    <state x="627" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616805423772">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="627" y="212" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1616805423772" />
+    <state x="539" y="13" width="840" height="1034" key="search.everywhere.popup" timestamp="1616805884071">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="539" y="13" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1616805884071" />
+  </component>
+</project>
