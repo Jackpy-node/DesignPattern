@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8077abff-2f22-4055-b1ec-cf25c87274a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/koupy/Design/AbstractFactory抽象工厂模式/Red.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/koupy/Design/Factory工厂模式/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +47,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,7 +113,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern/VisitorPatternDemo.java" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/cn/kpy/DesignPattern/VisitorPattern" />
   </component>
@@ -302,7 +303,7 @@
       <workItem from="1590248712396" duration="95000" />
       <workItem from="1590286999286" duration="3193000" />
       <workItem from="1590314508337" duration="52000" />
-      <workItem from="1616805365329" duration="1625000" />
+      <workItem from="1616805365329" duration="2951000" />
     </task>
     <task id="LOCAL-00001" summary="kpy">
       <created>1551959575636</created>
@@ -355,10 +356,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="kpy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1616805702390">
+    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1616808735024">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1616805702390" />
+    <state x="721" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1616808735024" />
     <state x="637" y="143" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1616806920328">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
@@ -383,10 +384,10 @@
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state width="1869" height="176" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1616806695709" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1616806501484">
+    <state x="312" y="0" width="1320" height="884" key="SettingsEditor" timestamp="1616808730998">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1616806501484" />
+    <state x="312" y="0" width="1320" height="884" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1616808730998" />
     <state x="539" y="13" width="840" height="1034" key="search.everywhere.popup" timestamp="1616805884071">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
