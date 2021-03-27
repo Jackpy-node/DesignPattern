@@ -8,7 +8,8 @@ package cn.koupy.Design.Factory工厂模式;
  * @discription:
  **/
 public class Rectangle implements Shape {
-    public void Draw() {
+    @Override
+    public void draw() {
         System.out.println("Rectangle Draw Method()");
     }
 }

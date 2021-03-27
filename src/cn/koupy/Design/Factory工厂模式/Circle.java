@@ -8,7 +8,8 @@ package cn.koupy.Design.Factory工厂模式;
  * @discription:
  **/
 public class Circle implements Shape {
-    public void Draw() {
+    @Override
+    public void draw() {
         System.out.println("Circle Draw Method()");
     }
 }

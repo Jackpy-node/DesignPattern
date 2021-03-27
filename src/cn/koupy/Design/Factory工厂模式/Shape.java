@@ -8,5 +8,5 @@ package cn.koupy.Design.Factory工厂模式;
  * @discription:
  **/
 public interface Shape {
-    public void Draw();
+    public void draw();
 }
