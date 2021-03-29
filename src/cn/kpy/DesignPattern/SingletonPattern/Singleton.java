@@ -6,7 +6,7 @@ public class Singleton {
     static class Singleton1 {
         private final static Singleton1 IN_SINGLETON1 = new Singleton1();
 
-        public Singleton1() {
+        private Singleton1() {
             // TODO Auto-generated constructor stub
         }
 
@@ -19,7 +19,7 @@ public class Singleton {
     static class Singleton2{
         private static Singleton2 IN_SINGLETON2;
 
-        public Singleton2() {
+        private Singleton2() {
             // TODO Auto-generated constructor stub
         }
         static{
@@ -34,7 +34,7 @@ public class Singleton {
     static class Singleton3{
         private static Singleton3 IN_SINGLETON3;
 
-        public Singleton3() {
+        private Singleton3() {
             // TODO Auto-generated constructor stub
         }
 
@@ -50,7 +50,7 @@ public class Singleton {
     static class Singleton4{
         private static Singleton4 IN_SINGLETON4;
 
-        public Singleton4() {
+        private Singleton4() {
             // TODO Auto-generated constructor stub
         }
 
@@ -66,7 +66,7 @@ public class Singleton {
     static class Singleton5{
         private static Singleton5 IN_SINGLETON5;
 
-        public Singleton5() {
+        private Singleton5() {
             // TODO Auto-generated constructor stub
         }
 
@@ -84,7 +84,7 @@ public class Singleton {
     static class Singleton6{
         private static Singleton6 IN_SINGLETON6;
 
-        public Singleton6() {
+        private Singleton6() {
             // TODO Auto-generated constructor stub
         }
 
@@ -103,14 +103,14 @@ public class Singleton {
     //静态内部类，推荐使用
     static class Singleton7{
 
-        public Singleton7() {
+        private Singleton7() {
             // TODO Auto-generated constructor stub
         }
 
         private static class SingletonInstance{
             private static final Singleton7 IN_SINGLETON7=new Singleton7();
         }
-        private static Singleton7 getSingleton7(){
+        public static Singleton7 getSingleton7(){
             return SingletonInstance.IN_SINGLETON7;
         }
     }
